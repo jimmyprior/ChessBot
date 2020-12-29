@@ -1,2 +1,2 @@
 # ChessBot
-A Discord Bot for chess club 
+A Discord bot for chess club 
